@@ -1,5 +1,5 @@
 echo "Copyright IMIE - 2015"
-### application.bat - 2015 - Simon Arques ###
+### application.bat - 2015 - Simon Arques - Manon Carbonnel ###
 version = "2"
 build_hour = "11H00"
 
